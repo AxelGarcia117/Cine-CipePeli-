@@ -1,0 +1,12 @@
+[
+    {"id": 1, "pelicula": "Beetlejuice", "clasificacion": "PG-13", "horario": "13:00", "sala": "Sala 1"},
+    {"id": 2, "pelicula": "Intensamente 2", "clasificacion": "PG", "horario": "14:00", "sala": "Sala 2"},
+    {"id": 3, "pelicula": "El cuervo", "clasificacion": "R +16", "horario": "17:00", "sala": "Sala 3"},
+	{"id": 4, "pelicula": "Drácula", "clasificacion": "R 18 C 16 14 14", "horario": "21:00", "sala": "Sala 4"},
+	{"id": 5, "pelicula": "El triángulo de las bermudas", "clasificacion": "R 18 C 16 14 14", "horario": "15:00", "sala": "Sala 5"},
+	{"id": 6, "pelicula": "Godzilla y Kong", "clasificacion": "PG +13", "horario": "12:00", "sala": "Sala 6"},
+	{"id": 7, "pelicula": "Elementos", "clasificacion": "PG", "horario": "13:00", "sala": "Sala 7"},
+	{"id": 8, "pelicula": "Las brujas", "clasificacion": "PG", "horario": "11:00", "sala": "Sala 8"},
+	{"id": 9, "pelicula": "La purga por siempre", "clasificacion": "R", "horario": "22:00", "sala": "Sala 9"},
+	{"id": 10, "pelicula": "Spider- man: sin camino a casa", "clasificacion": "PG +13", "horario": "18:00", "sala": "Sala 10"}
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salas de Cine</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body onload="cargarSalas()">
+	<div class="menu"> 
+		
+		<img src="Rollo.png" class="logo" >
+		<h1 class="titulo_logo">CinePeli</h1>
+		<a class="btn_cartelera" href="cartelera.html">Ver cartelera</a>
+		<a class="btn_salas" href="salas.html">Ver Salas</a>
+	
+	</div>
+	
+    <h1>Consultar Salas de Cine</h1>
+
+    <!-- Sección para consultar una sala específica -->
+    <div>
+        <label for="idSala">Ingrese el ID de la sala:</label>
+        <input type="number" id="idSala" placeholder="1">
+        <button onclick="buscarSala()">Consultar Sala</button>
+        <button onclick="limpiarConsulta()">Borrar Consulta</button>
+    </div>
+
+    <!-- Sección para mostrar resultados -->
+    <div id="resultado"></div>
+	
+	<br>
+    <a href="index.html" class="return">Regresar a la Página de Inicio</a>
+
+	<div class="end">
+	
+		<p class="autores">Autor: [Axel Jeovanni Garcia Nuñez y Margarita Reyes Lopez]</p>
+		<img src="Rollo.png" class="rollo_fin">
+		<h4 class="sub_end">CinePeli</h4>
+		<hr class="division">
+		
+		<h3><a href="" class="link_end">Salas</a></h3>
+		<h3><a href="" class="link_edn_2">Cartelera</a></h3>
+	</div>
+	
+	<script src="salas.js"></script>
+</body>
+</html>

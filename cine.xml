@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<salas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cine.xsd">
+    <sala>
+        <id>1</id>
+        <nombre>Sala 1</nombre>
+        <capacidad>100</capacidad>
+        <ubicacion>Piso 1</ubicacion>
+        <tipo>3D</tipo>
+    </sala>
+    
+	<sala>
+	<id>2</id>
+        <nombre>Sala 2</nombre>
+        <capacidad>90</capacidad>
+        <ubicacion>Piso 1</ubicacion>
+        <tipo>Macropantalla</tipo>
+    </sala>
+
+	<sala>
+	<id>3</id>
+        <nombre>Sala 3</nombre>
+        <capacidad>150</capacidad>
+        <ubicacion>Piso 2</ubicacion>
+        <tipo>Normal</tipo>
+    </sala>
+	
+	<sala>
+	<id>4</id>
+        <nombre>Sala 4</nombre>
+        <capacidad>150</capacidad>
+        <ubicacion>Piso 1</ubicacion>
+        <tipo>Macropantalla</tipo>
+    </sala>
+
+	<sala>
+	<id>5</id>
+        <nombre>Sala 5</nombre>
+        <capacidad>50</capacidad>
+        <ubicacion>Piso 2</ubicacion>
+        <tipo>4D</tipo>
+    </sala>
+
+	<sala>
+	<id>6</id>
+        <nombre>Sala 6</nombre>
+        <capacidad>100</capacidad>
+        <ubicacion>Piso 2</ubicacion>
+        <tipo>Normal</tipo>
+    </sala>
+
+	<sala>
+	<id>7</id>
+        <nombre>Sala 7</nombre>
+        <capacidad>50</capacidad>
+        <ubicacion>Piso 1</ubicacion>
+        <tipo>4D</tipo>
+    </sala>
+
+	<sala>
+	<id>8</id>
+        <nombre>Sala 8</nombre>
+        <capacidad>100</capacidad>
+        <ubicacion>Piso 2</ubicacion>
+        <tipo>3D</tipo>
+    </sala>
+
+	<sala>
+	<id>9</id>
+        <nombre>Sala 9</nombre>
+        <capacidad>150</capacidad>
+        <ubicacion>Piso 2</ubicacion>
+        <tipo>Macropantalla</tipo>
+    </sala>
+
+	<sala>
+	<id>10</id>
+        <nombre>Sala 10</nombre>
+        <capacidad>80</capacidad>
+        <ubicacion>Piso 2</ubicacion>
+        <tipo>3D</tipo>
+    </sala>
+</salas>
